@@ -1,4 +1,4 @@
-# DSF_Summer_School
+# Advanced Python Packages talk at the DSF Summer School 2021
 This repository contains the materials from the Advanced Python Packages talk given at the Data Science Festival Summer School 2021: https://events.dataidols.com/
 
 Talk Abstract:
@@ -8,10 +8,10 @@ Talk Abstract:
 
 The repository contains the following files:
 
-* `advanced_python_packages.PDF` - Slides from the talk
+* `advanced_python_packages.PDF` - Slides used the talk
 * `scikit_learn_tensorflow_classifier.ipynb` - Tutorial code for scikit-learn and Tensorflow
-* `lung_cancer_dataset.csv` - Dataset to use in the 
-* `pytorch_gnn_mutag.ipynb`
+* `lung_cancer_dataset.csv` - Dataset to use in the  scikit-learn and Tensorflow tutorial code. Please note that this dataset has less patients and less genes than the dataset used in the talk. This facilitates data sharing and and allows the code to run faster.
+* `pytorch_gnn_mutag.ipynb` - Tutorial code for pytorch-geometric
 
 A video recording will be available on the Data Idols event website on 24 August.
 The full Summer School schedule can be found here: https://events.dataidols.com/schedule/
